@@ -14,3 +14,7 @@ del tuple1[0];
 print(tuple1); 
 #del tuple1;  
 #print(tuple1);
+
+
+print('===================== Test =============================')
+
